@@ -143,3 +143,4 @@ const iniciar = () => {
 };
 
 document.addEventListener("DOMContentLoaded", iniciar);
+/* marcello esteve aqui */
